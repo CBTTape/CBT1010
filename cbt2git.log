@@ -1,0 +1,11 @@
+2023-08-06 00:56:26.351658 - Initialized conversion of CBT1010
+2023-08-06 00:56:26.451148 - Received CBT.V505.FILE1010.PDS from FILE1010.XMI 
+2023-08-06 00:56:26.453482 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:56:26.454438 - Found @FIL1010.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/@FIL1010
+2023-08-06 00:56:26.456472 - De-xmi-ed EXPLAIN to CBT1010/docs/EXPLAIN.docx
+2023-08-06 00:56:26.456537 - Found LISTINGS.zip (application/zip), trying to unzip
+2023-08-06 00:56:26.456636 - Found LISTINGS.zip (application/zip), extracting to CBT1010/LISTINGS
+2023-08-06 00:56:26.461023 - Found MACLIB.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/MACLIB
+2023-08-06 00:56:26.462096 - Found SRCLIB.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/SRCLIB
+2023-08-06 00:56:26.462105 - Found Z390ZIP.zip (application/zip), trying to unzip
+2023-08-06 00:56:26.462259 - Found Z390ZIP.zip (application/zip), extracting to CBT1010/Z390ZIP
