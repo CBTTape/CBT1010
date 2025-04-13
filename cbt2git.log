@@ -1,0 +1,8 @@
+2025-04-13 13:15:27.508044 - Received CBT.V505.FILE1010.PDS from FILE1010.XMI 
+2025-04-13 13:15:27.508841 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/$$$#DATE
+2025-04-13 13:15:27.508923 - Found @FIL1010.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/@FIL1010
+2025-04-13 13:15:27.509026 - Found EXPLAIN.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) in CBT.V505.FILE1010.PDS, moved to docs/EXPLAIN.docx
+2025-04-13 13:15:27.512472 - Found LISTINGS.zip (application/zip) in CBT.V505.FILE1010.PDS, moved to LISTINGS
+2025-04-13 13:15:27.512606 - Found MACLIB.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/MACLIB
+2025-04-13 13:15:27.512779 - Found SRCLIB.txt (text/plain) in CBT.V505.FILE1010.PDS, moved to PDS/SRCLIB
+2025-04-13 13:15:27.517634 - Found Z390ZIP.zip (application/zip) in CBT.V505.FILE1010.PDS, moved to Z390ZIP
